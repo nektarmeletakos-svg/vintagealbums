@@ -1,0 +1,67 @@
+# SOLD ALBUMS - LIVE STATUS FILE
+# ------------------------------------------------------------
+# This file is fetched by index.html on every page load, so whatever
+# is in here is what EVERY visitor sees - not just your own browser.
+#
+# One Album ID per line, exactly as shown in the "Album ID" field on
+# each album's popup on the website (format: box1_5016).
+# Lines starting with # are comments and are ignored.
+#
+# How to update:
+#   1. Add/remove Album ID lines below as you sell albums.
+#   2. Save this file.
+#   3. Redeploy the site (same as updating any other file - re-push
+#      to GitHub if using Option A, or re-upload the whole folder if
+#      using Option B). The change goes live for everyone once the
+#      new deployment finishes (usually under a minute).
+#
+# If an ID appears in both this file and reserved-list.txt, it always
+# shows as SOLD (a sale is final; a reservation isn't) - so when a
+# reserved album sells, just move its ID from reserved-list.txt here.
+
+box6_5370
+box6_5386
+box6_5351
+box6_5379
+box6_5367
+box6_5366
+box5_5316
+box5_5324
+box5_5299
+box5_5300
+box4_5212
+box3_5142
+box3_5146
+box3_5148
+box6_5393
+box2_5100
+box2_5101
+box2_5107
+box2_5108
+box5_5328
+box3_5172
+box1_5054
+box4_5255
+box1_5056
+box6_5343
+box3_5150
+box6_5396
+box6_5342
+box1_5053
+box6_5353
+box4_5208
+box6_5396
+box5_5301
+box5_5318
+box6_5357
+box1_5062
+box2_5084
+box4_5270
+box1_5055
+box1_5060
+box3_5167
+box5_5295
+box5_5296
+box3_5153
+box2_5074
+
